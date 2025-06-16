@@ -173,3 +173,38 @@
 - [ ] Health Checks, Metrics Exposure
 
 ---
+
+### 13. ☁️ AWS Cloud Fundamentals (Developer & Deployment Focus)
+
+- [ ] **Core AWS Services**
+  - EC2 (Instances, Security Groups, Key Pairs)
+  - S3 (Object Storage, Versioning, Lifecycle Policies)
+  - IAM (Users, Roles, Policies)
+  - RDS (PostgreSQL, MySQL on AWS)
+  - CloudWatch (Monitoring, Alarms, Logs)
+
+- [ ] **Networking & Access**
+  - VPC Basics (Subnets, Route Tables, NAT Gateways)
+  - Load Balancer (ALB vs NLB)
+  - Security Groups vs NACLs
+  - IAM Role usage for EC2 and Lambda
+
+- [ ] **CI/CD & DevOps**
+  - CodePipeline, CodeBuild basics
+  - Deploying Spring Boot using Elastic Beanstalk
+  - ECS with Fargate (Optional but good)
+
+- [ ] **Serverless Architecture**
+  - Lambda Functions with Java
+  - API Gateway integration with Lambda
+  - EventBridge and SQS (intro only)
+
+- [ ] **Storage, Caching, Queues**
+  - DynamoDB Basics
+  - SQS (FIFO vs Standard Queue)
+  - ElastiCache (Redis with AWS)
+
+- [ ] **Best Practices**
+  - Cost Optimization Tips
+  - Cloud Security Basics
+  - Tagging, Billing Alerts
